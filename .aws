@@ -7,5 +7,5 @@ aws_access_key_id = AKIAZBGIGYA4BRV7S6X7
 aws_secret_access_key = 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
 
 [s3admin]
-aws_access_key_id = AKIAZBGIGYA4PNAX4IWV
-aws_secret_access_key = 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
+aws_access_key_id = AKIAZBGIGYA4N7A6KFUO
+aws_secret_access_key = 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
