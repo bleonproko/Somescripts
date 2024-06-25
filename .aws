@@ -1,3 +1,7 @@
 [administrator]
 aws_access_key_id = AKIAZBGIGYA4H4NU5OER
 aws_secret_access_key = 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
+
+[s3admin]
+aws_access_key_id = AKIAZBGIGYA4BRV7S6X7
+aws_secret_access_key = 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
